@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Soupe - Appcast</title>
+        <item>
+            <title>Version 1.15.0</title>
+            <description>Minor updates and improvements.</description>
+            <pubDate>Jan, 11 Dec 2024 5:44:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.bridgewaters.soupe_mobile" sparkle:version="1.0.9" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
